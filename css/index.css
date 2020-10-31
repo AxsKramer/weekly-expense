@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(to right, #004e92, #000428);
+}
+
+.header{
+    width: 100%;
+    background: linear-gradient(to right, #004e92, #000428);
+}
+
+.header h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 1%;
+    letter-spacing: 2px;
+}
+
+.box__container{
+    box-shadow: 5px 5px 5px #333333, -5px -2px 5px #333333;
+}
+
+.box{
+    background-color: white;
+    padding: 1rem;
+}
